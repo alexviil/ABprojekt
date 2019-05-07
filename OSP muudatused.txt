@@ -1,0 +1,9 @@
+OSP muudatused vs OSP.png (ehk esialgne versioon)
+
+07/05
+
+- Kontod ja Filmid keskmine hinnang TINYINT -> FLOAT
+
+- Filmid uus veerg Hinnanguid INTEGER
+
+- kolm uut tabelit N:M relatsioonide jaoks: Mangimised, Osalemised, Lavastused

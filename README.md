@@ -1,3 +1,7 @@
 # Oma Suur Projekt
   
-Aine Andmebaasid projekt.
+Aine Andmebaasid projekt.  
+  
+Login:
+		* DBA
+		* sql
