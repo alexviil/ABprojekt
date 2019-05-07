@@ -2,6 +2,6 @@
   
 Aine Andmebaasid projekt.  
   
-Login:
-		* DBA
-		* sql
+* Login:
+	* DBA
+	* sql
